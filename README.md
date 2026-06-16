@@ -25,27 +25,27 @@ A simple multi-page Product Card Website built using HTML and CSS.
 
 ## 📂 Project Structure
 
-product-card-website/
-│
+product-card-website/<br>
+│<br>
 ├── product card.html<br>
 ├── mobile.html<br>
 ├── laptops.html<br>
 ├── headphones.html<br>
 ├── card.css<br>
-│
-└── images/
-    ├── mobile.jpg
-    ├── laptop.jpg
-    ├── headphones.jpg
-    ├── iphone1.jpg
-    ├── samsung1.jpg
-    ├── oneplus1.jpg
-    ├── dell1.jpg
-    ├── hp1.jpg
-    ├── lenovo1.jpg
-    ├── boat.jpg
-    ├── jbl.jpg
-    └── sony.jpg
+│<br>
+└── images/<br>
+    ├── mobile.jpg<br>
+    ├── laptop.jpg<br>
+    ├── headphones.jpg<br>
+    ├── iphone1.jpg<br>
+    ├── samsung1.jpg<br>
+    ├── oneplus1.jpg<br>
+    ├── dell1.jpg<br>
+    ├── hp1.jpg<br>
+    ├── lenovo1.jpg<br>
+    ├── boat.jpg<br>
+    ├── jbl.jpg<br>
+    └── sony.jpg<br>
 
 ## 🚀 Pages
 
