@@ -27,11 +27,11 @@ A simple multi-page Product Card Website built using HTML and CSS.
 
 product-card-website/
 │
-├── product card.html
-├── mobile.html
-├── laptops.html
-├── headphones.html
-├── card.css
+├── product card.html<br>
+├── mobile.html<br>
+├── laptops.html<br>
+├── headphones.html<br>
+├── card.css<br>
 │
 └── images/
     ├── mobile.jpg
